@@ -12,7 +12,7 @@ cd tahribat-auto-reply
 2. pip install
 
 ```
-pip install -r requerments.txt
+pip install -r requirements.txt
 ```
 
 3. run.py
